@@ -6,4 +6,4 @@ Completed assignments for the course ["HTML, CSS, and Javascript for Web Develop
 Module 2 Coding Assignment:
 - [Description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md)
 - [Solution](https://johnnymzimmer.github.io/html-css-js-coursera/module-2-solution)
-- [Source code](./module-2-solution)
+- [Source Code](./module-2-solution)

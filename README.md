@@ -1,7 +1,7 @@
 # Coursera: HTML, CSS and Javascript for Web Developers
 # Johns Hopkins University
 
-Assignment solution code for ["HTML, CSS, and Javascript for Web Developers"](https://www.coursera.org/learn/html-css-javascript-for-web-developers) course by [Yaakov Chaikin](https://www.coursera.org/instructor/yaakov-chaikin).
+Completed assignments for the course ["HTML, CSS, and Javascript for Web Developers"](https://www.coursera.org/learn/html-css-javascript-for-web-developers) by [Yaakov Chaikin](https://www.coursera.org/instructor/yaakov-chaikin).
 
 ## Assignments
 Module 2 Coding Assignment:

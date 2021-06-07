@@ -1,0 +1,108 @@
+* {
+    box-sizing: border-box;
+    font-family: "Verdana", sans-serif;
+}
+
+/** HEADER **/
+#header-nav {
+    background-color: #4d4d4d;
+    border-radius: 0;
+    border: 0;
+}
+.navbar-brand h1 { /* Restaurant name */
+    color: #ffffff;
+    font-size: 1.8em;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #222;
+    margin-top: 5px;
+    margin-bottom: 0;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+    text-decoration: none;
+}
+#nav-list a {
+    color: #ffffff;
+    background-color: #4d4d4d;
+    text-align: center;
+}
+#nav-list a:hover {
+    background: #3b3b3b;
+}
+#nav-list a span {
+    font-size: 1.8em;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid #ffffff;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+    background-color: #3b3b3b;
+}
+.navbar-header button.navbar-toggle {
+    clear: both;
+    margin-top: -55px;
+}
+
+/* END HEADER */
+div.row {
+    margin: 5px;
+}
+h1 {
+    margin: 50px 0 35px 0;
+    font-size: 1.8em;
+}
+h2 {
+    color: #000000;
+    line-height: 2;
+    font-size: 1.25em;
+    text-align: center;
+    margin-bottom: 0;
+    z-index: 1;
+}
+p {
+    padding: 15px;
+    background-color: #dcdcdc;
+    font-size: 1em;
+    margin-bottom: 0;
+}
+#chicken {
+    background-color: #deccb7;
+}
+#beef {
+    background-color: #5e1c1c;
+    color: #ffffff;
+}
+#sushi {
+    background-color: #ffb6c5;
+}
+
+/********** Small–Large devices only **********/
+@media (min-width: 768px) {
+    #header-nav {
+        padding-bottom: 25px;
+    }
+}
+
+/********** Extra small devices only **********/
+@media (max-width: 767px) {
+    /* Header */
+    .navbar-brand {
+        padding-top: 10px;
+        height: 80px;
+    }
+    .navbar-brand h1 { /* Restaurant name */
+        padding-top: 10px;
+        font-size: 5vw;
+    }
+    #collapsable-nav a { /* Collapsed nav menu text */
+        font-size: 1.2em;
+    }
+    #xs-deliver {
+        margin-top: 5px;
+        font-size: .7em;
+        letter-spacing: .1em;
+        text-transform: uppercase;
+    }
+    /* End Header */
+}
+

@@ -66,14 +66,13 @@ p {
     margin-bottom: 0;
 }
 #chicken {
-    background-color: #deccb7;
+    background-color: #dcdcdc;
 }
 #beef {
-    background-color: #5e1c1c;
-    color: #ffffff;
+    background-color: #dcdcdc;
 }
 #sushi {
-    background-color: #ffb6c5;
+    background-color: #dcdcdc;
 }
 
 /********** Small–Large devices only **********/

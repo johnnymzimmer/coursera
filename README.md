@@ -17,3 +17,8 @@ Module 4 Coding Assignment:
 - [Description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md)
 - [Solution](https://johnnymzimmer.github.io/html-css-js-coursera/module-4-solution)
 - [Source code](https://github.com/johnnymzimmer/html-css-js-coursera/tree/gh-pages/module-4-solution)
+
+Module 4 Coding Assignment:
+- [Description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md)
+- [Solution](https://johnnymzimmer.github.io/html-css-js-coursera/module-5-solution)
+- [Source code](https://github.com/johnnymzimmer/html-css-js-coursera/tree/gh-pages/module-5-solution)
